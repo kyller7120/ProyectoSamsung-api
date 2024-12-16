@@ -1,0 +1,2083 @@
+{
+    "squad": [
+        {
+            "height": "1,94",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1214863200,
+            "contractUntil": false,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "18944",
+            "name": "Gerard Piqu\u00e9",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/18944-1667548226.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 35,
+            "dateOfBirth": 539218800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/gerard-pique-spain-world-cup-2010-1671192827-98596.jpg?lm=1671192835",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 0,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,85",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1658181600,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "38253",
+            "name": "Robert Lewandowski",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/38253-1701118759.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 33,
+            "dateOfBirth": 588117600,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/robert-lewandowski-fc-barcelona-2024-1732688506-155191.jpg?lm=1732688519",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 135,
+                    "name": "Polen",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/135.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 30000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,80",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1598911200,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "44162",
+            "name": "Miralem Pjanic",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/44162-1727362852.png?lm=1",
+            "imageLarge": null,
+            "imageSource": "www.pfc-cska.com",
+            "shirtNumber": null,
+            "age": 32,
+            "dateOfBirth": 639007200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/miralem-pjanic-zska-moskau-2024-2025-1733977467-156488.jpeg?lm=1733977473",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 24,
+                    "name": "Bosnien-Herzegowina",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/24.png?lm=1569523290"
+                },
+                {
+                    "id": 99,
+                    "name": "Luxemburg",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/99.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 6000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,87",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1643583600,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "58864",
+            "name": "Pierre-Emerick Aubameyang",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/58864-1676029326.png?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 33,
+            "dateOfBirth": 614124000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/pierre-emerick-aubameyang-olympique-marseille-2023-24-1708069899-129542.jpg?lm=1708069917",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 51,
+                    "name": "Gabun",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/51.png?lm=1520611569"
+                },
+                {
+                    "id": 50,
+                    "name": "Frankreich",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/50.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 4000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,89",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1214863200,
+            "contractUntil": 1767135600,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "65230",
+            "name": "Sergio Busquets",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/65230-1710079767.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Major League Soccer",
+            "shirtNumber": null,
+            "age": 33,
+            "dateOfBirth": 585007200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/sergio-busquets-1726589503-148337.jpg?lm=1726589525",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 5000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,70",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1341093600,
+            "contractUntil": 1767135600,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "69751",
+            "name": "Jordi Alba",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/69751-1710080407.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Major League Soccer",
+            "shirtNumber": null,
+            "age": 33,
+            "dateOfBirth": 606438000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/jordi-alba-1726589970-148339.jpg?lm=1726589990",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "4",
+                    "name": "Linker Verteidiger",
+                    "shortName": "LV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "9",
+                    "name": "Linkes Mittelfeld",
+                    "shortName": "LM",
+                    "group": "Mittelfeld"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 5000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,87",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1404165600,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "74857",
+            "name": "Marc-Andr\u00e9 ter Stegen",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/74857-1674465246.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 30,
+            "dateOfBirth": 704584800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/marc-andre-ter-stegen-dfb-2023-1700240482-122091.jpg?lm=1700240493",
+            "isGoalkeeper": true,
+            "positions": {
+                "first": {
+                    "id": "1",
+                    "name": "Torwart",
+                    "shortName": "TW",
+                    "group": "Torwart"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 40,
+                    "name": "Deutschland",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/40.png?lm=1520612525"
+                }
+            ],
+            "marketValue": {
+                "value": 35000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,78",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1372629600,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "85370",
+            "name": "Sergi Roberto",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/85370-1662585931.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": null,
+            "age": 30,
+            "dateOfBirth": 697417200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/sergi-roberto-fc-barcelona-2023-1723525308-144961.jpg?lm=1723525315",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "third": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 5000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,88",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1661983200,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "112515",
+            "name": "Marcos Alonso",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/112515-1694505734.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 31,
+            "dateOfBirth": 662338800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/marcos-alonso-fc-barcelona-2022-1668163073-96202.jpg?lm=1668163086",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "4",
+                    "name": "Linker Verteidiger",
+                    "shortName": "LV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "third": {
+                    "id": "9",
+                    "name": "Linkes Mittelfeld",
+                    "shortName": "LM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 5000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,78",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1625090400,
+            "contractUntil": 1798671600,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "167850",
+            "name": "Memphis Depay",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/167850-1668167349.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 28,
+            "dateOfBirth": 761094000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/memphis-depay-corinthians-2024-1727362988-149447.jpg?lm=1727363031",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "13",
+                    "name": "H\u00e4ngende Spitze",
+                    "shortName": "HS",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 122,
+                    "name": "Niederlande",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/122.png?lm=1520611569"
+                },
+                {
+                    "id": 54,
+                    "name": "Ghana",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/54.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 14000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,78",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1661983200,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "191217",
+            "name": "H\u00e9ctor Beller\u00edn",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/191217-1676903202.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Sporting CP",
+            "shirtNumber": null,
+            "age": 27,
+            "dateOfBirth": 795567600,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/hector-bellerin-sporting-2023-1677691580-102877.jpg?lm=1677691613",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 8000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,87",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1656885600,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "196948",
+            "name": "Andreas Christensen",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/196948-1668183241.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 26,
+            "dateOfBirth": 829087200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/christensen-andreas-fc-barcelona-2024-2025-1048708915h-1728569694-150976.jpg?lm=1728569707",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 39,
+                    "name": "D\u00e4nemark",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/39.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 40000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,84",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1643497200,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "283170",
+            "name": "I\u00f1aki Pe\u00f1a",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/283170-1702502364.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 23,
+            "dateOfBirth": 920329200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/inaki-pena-barcelona-2022-2023-1727085796-148859.jpg?lm=1727085859",
+            "isGoalkeeper": true,
+            "positions": {
+                "first": {
+                    "id": "1",
+                    "name": "Torwart",
+                    "shortName": "TW",
+                    "group": "Torwart"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 4000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,78",
+            "foot": "beidf\u00fc\u00dfig",
+            "injury": null,
+            "suspension": null,
+            "joined": 1503612000,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "288230",
+            "name": "Ousmane Demb\u00e9l\u00e9",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/288230-1684148641.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 25,
+            "dateOfBirth": 863647200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/ousmane-dembele-psg-2024-2025-1049084304h-1724837762-146436.jpg?lm=1724837778",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 50,
+                    "name": "Frankreich",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/50.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 60000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,83",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1656885600,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "294808",
+            "name": "Franck Kessi\u00e9",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/294808-1691613615.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 25,
+            "dateOfBirth": 850950000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/franck-kessie-al-ahli-1698133090-120230.jpg?lm=1698133107",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 38,
+                    "name": "Elfenbeink\u00fcste",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/38.png?lm=1520611569"
+                },
+                {
+                    "id": 75,
+                    "name": "Italien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/75.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 25000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,81",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1561932000,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "326330",
+            "name": "Frenkie de Jong",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/326330-1656499973.png?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": null,
+            "age": 25,
+            "dateOfBirth": 863388000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/frenkie-de-jong-fc-barcelona-2024-1732900317-155432.jpg?lm=1732900350",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 122,
+                    "name": "Niederlande",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/122.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 75000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,84",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1640991600,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "398184",
+            "name": "Ferran Torres",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/398184-1699383547.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 22,
+            "dateOfBirth": 951778800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/ferran-torres-fc-barcelona-2024-2025-1049211682h-1726740282-148521.jpg?lm=1726740317",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 30000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,76",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1657663200,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "411295",
+            "name": "Raphinha",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/411295-1729754479.png?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 25,
+            "dateOfBirth": 850518000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/raphinha-barcelona-2024-1733257047-155700.jpg?lm=1733257064",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 26,
+                    "name": "Brasilien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/26.png?lm=1520611569"
+                },
+                {
+                    "id": 75,
+                    "name": "Italien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/75.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 60000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,80",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1658959200,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "411975",
+            "name": "Jules Kound\u00e9",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/411975-1702502639.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 23,
+            "dateOfBirth": 910825200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/jules-kounde-fc-barcelona-2024-2025-1049228817h-1-1727435298-149615.jpg?lm=1727435312",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 50,
+                    "name": "Frankreich",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/50.png?lm=1520611569"
+                },
+                {
+                    "id": 21,
+                    "name": "Benin",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/21.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 60000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,85",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "466783",
+            "name": "Arnau Tenas",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/466783-1701444229.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 21,
+            "dateOfBirth": 991173600,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/arnau-tenas-psg-2023-2024-1037609877h-1712664941-133788.jpg?lm=1712664955",
+            "isGoalkeeper": true,
+            "positions": {
+                "first": {
+                    "id": "1",
+                    "name": "Torwart",
+                    "shortName": "TW",
+                    "group": "Torwart"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 2000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,82",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1625090400,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "466794",
+            "name": "Eric Garc\u00eda",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/466794-1693604801.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 21,
+            "dateOfBirth": 978994800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/eric-garcia-girona-fc-2023-24-1707294544-128745.jpg?lm=1707294570",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "third": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 10000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,70",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "466806",
+            "name": "\u00c1lvaro Sanz",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/466806-1667341484.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 21,
+            "dateOfBirth": 982105200,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "third": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 700000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,78",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1600812000,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "466810",
+            "name": "Ansu Fati",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/466810-1721828228.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 19,
+            "dateOfBirth": 1036018800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/fati-ansu-fc-barcelona-2024-2025-1051337648h-1728569767-150977.jpg?lm=1728569780",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                },
+                {
+                    "id": 60,
+                    "name": "Guinea-Bissau",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/60.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 35000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,92",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1601848800,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "480267",
+            "name": "Ronald Araujo",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/480267-1701118351.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 23,
+            "dateOfBirth": 920761200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/ronald-araujo-1719590403-141197.jpg?lm=1719590425",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 179,
+                    "name": "Uruguay",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/179.png?lm=1520611569"
+                },
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 70000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,75",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1656626400,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "636688",
+            "name": "Alejandro Balde",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/636688-1662836200.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": null,
+            "age": 18,
+            "dateOfBirth": 1066428000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/alejandro-balde-fc-barcelona-2024-1706356587-127651.jpg?lm=1706356605",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "4",
+                    "name": "Linker Verteidiger",
+                    "shortName": "LV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                },
+                {
+                    "id": 43,
+                    "name": "Dominikanische Republik",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/43.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 50000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,72",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "636695",
+            "name": "Marc Casad\u00f3",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/636695-1729771427.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 18,
+            "dateOfBirth": 1063490400,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/marc-casado-fc-barcelona-2024-2025-1728039083-150307.jpg?lm=1728039116",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 250000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,75",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "646739",
+            "name": "\u00c1ngel Alarc\u00f3n",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/646739-1666794635.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 18,
+            "dateOfBirth": 1084572000,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 300000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,73",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1625090400,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "646740",
+            "name": "Gavi",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/646740-1682685701.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 17,
+            "dateOfBirth": 1091656800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/gavi-fc-barcelone-2024-2025-1048707341h-1726135330-147831.jpg?lm=1726135344",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 90000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,74",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1567375200,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "683840",
+            "name": "Pedri",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/683840-1620304992.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Jacaranda",
+            "shirtNumber": null,
+            "age": 19,
+            "dateOfBirth": 1038178800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/pedri-spain-euro-2024-1718791862-140354.jpg?lm=1718791901",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 100000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,87",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1877464800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "689637",
+            "name": "Chadi Riad",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/689637-1704399972.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Roc Nation Sports",
+            "shirtNumber": null,
+            "age": 19,
+            "dateOfBirth": 1055800800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/chadi-riad-crystal-palace-2024-1723454527-144876.jpg?lm=1723454543",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 107,
+                    "name": "Marokko",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/107.png?lm=1520611569"
+                },
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 500000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,90",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "709955",
+            "name": "Ander Astralaga",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/709955-1733947865.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 18,
+            "dateOfBirth": 1078268400,
+            "heroImage": null,
+            "isGoalkeeper": true,
+            "positions": {
+                "first": {
+                    "id": "1",
+                    "name": "Torwart",
+                    "shortName": "TW",
+                    "group": "Torwart"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 1000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,78",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "709957",
+            "name": "\u00c1lex Valle",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/709957-1667341728.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 18,
+            "dateOfBirth": 1082844000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/alex-valle-levante-ud-2023-24-1711454465-132791.jpg?lm=1711454492",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "4",
+                    "name": "Linker Verteidiger",
+                    "shortName": "LV",
+                    "group": "Abwehr"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 500000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,70",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "709966",
+            "name": "Aleix Garrido",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/709966-1680266558.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 18,
+            "dateOfBirth": 1077404400,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 300000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,75",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "709969",
+            "name": "Ilias Akhomach",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/709969-1636472170.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": null,
+            "age": 18,
+            "dateOfBirth": 1082066400,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/ilias-akhomach-villarreal-cf-2023-24-1697446030-119428.jpg?lm=1697446051",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 107,
+                    "name": "Marokko",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/107.png?lm=1520611569"
+                },
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 3000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,73",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1656626400,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "720038",
+            "name": "Pablo Torre",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/720038-1724406086.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 19,
+            "dateOfBirth": 1049320800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/pablo-torre-racing-santander-2022-1655298968-86923.jpg?lm=1655298978",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 3000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,70",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "834470",
+            "name": "Dani Rodr\u00edguez",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/834470-1706715505.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "Dani Rodr\u00edguez",
+            "shirtNumber": null,
+            "age": 16,
+            "dateOfBirth": 1123538400,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 100000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,85",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": false,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "913539",
+            "name": "Estanis Pedrola",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/913539-1691411717.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 18,
+            "dateOfBirth": 1061676000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/estanis-pedrola-sampdoria-23-24-1712491391-133625.jpg?lm=1712491404",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 400000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,79",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "937956",
+            "name": "Pau Prim",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/937956-1700816296.png?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 16,
+            "dateOfBirth": 1140562800,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 500000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,80",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "937958",
+            "name": "Lamine Yamal",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/937958-1720606123.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 14,
+            "dateOfBirth": 1184277600,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/lamine-yamal-fc-barcelona-2024-25-1726577930-148299.jpg?lm=1726577945",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                },
+                {
+                    "id": 8,
+                    "name": "\u00c4quatorialguinea",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/8.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 150000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,87",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1877464800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "938158",
+            "name": "Marc Guiu",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/938158-1719846394.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 16,
+            "dateOfBirth": 1136329200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/marc-guiu-2024-barcelona-1040425496h-1719846448-141316.jpg?lm=1719846463",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 7500000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,71",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": false,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "970633",
+            "name": "Unai Hern\u00e1ndez",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/970633-1699985392.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": null,
+            "age": 17,
+            "dateOfBirth": 1102978800,
+            "heroImage": null,
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 800000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        }
+    ]
+}

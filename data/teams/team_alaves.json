@@ -1,0 +1,73 @@
+{
+    "count": {
+        "players": 2,
+        "coaches": 0,
+        "clubs": 5,
+        "competitions": 0,
+        "referees": 0
+    },
+    "players": [
+        {
+            "id": "921267",
+            "playerName": "Marko Palavestric",
+            "firstName": "Marko",
+            "lastName": "Palavestric",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/215.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "1125478",
+            "playerName": "Marcelo Augusto",
+            "firstName": "Marcelo",
+            "lastName": "Augusto Monteiro Gon\u00e7alaves",
+            "alias": "Marcelo Augusto",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569",
+            "club": "Vereinslos",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "1108",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Deportivo Alav\u00e9s",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/1108.png?lm=1596131395"
+        },
+        {
+            "id": "8880",
+            "league": "E4G2",
+            "competitionID": "E4G2",
+            "competitionName": "Segunda Federaci\u00f3n - Gr. II",
+            "name": "Deportivo Alav\u00e9s B",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/8880.png?lm=1596131395"
+        },
+        {
+            "id": "76291",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Deportivo Alav\u00e9s C",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/76291.png?lm=1596131396"
+        },
+        {
+            "id": "44202",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Deportivo Alav\u00e9s U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/44202.png?lm=1596131396"
+        },
+        {
+            "id": "8881",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Deportivo Alav\u00e9s Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/8881.png?lm=1596131396"
+        }
+    ]
+}

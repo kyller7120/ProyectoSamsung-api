@@ -1,0 +1,93 @@
+{
+    "count": {
+        "players": 0,
+        "coaches": 0,
+        "clubs": 9,
+        "competitions": 0,
+        "referees": 0
+    },
+    "agents": [
+        {
+            "id": "5888",
+            "companyName": "MADRID SOCCER REVOLUTION SL"
+        },
+        {
+            "id": "13544",
+            "companyName": "1&1 Agency Madrid"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "418",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Real Madrid",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1729684474"
+        },
+        {
+            "id": "6767",
+            "league": "E3G2",
+            "competitionID": "E3G2",
+            "competitionName": "Primera Federaci\u00f3n - Gr. II",
+            "name": "Real Madrid Castilla",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/6767.png?lm=1729684474"
+        },
+        {
+            "id": "92878",
+            "league": "E4G5",
+            "competitionID": "E4G5",
+            "competitionName": "Segunda Federaci\u00f3n - Gr. V",
+            "name": "Real Madrid C",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/92878.png?lm=1729684474"
+        },
+        {
+            "id": "41596",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Madrid UEFA U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/41596.png?lm=1729684475"
+        },
+        {
+            "id": "28870",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Madrid U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/28870.png?lm=1729684474"
+        },
+        {
+            "id": "13711",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Madrid U17",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/13711.png?lm=1729684474"
+        },
+        {
+            "id": "70321",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Madrid Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/70321.png?lm=1729684475"
+        },
+        {
+            "id": "39822",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Madrid U18",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/39822.png?lm=1729684474"
+        },
+        {
+            "id": "2868",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Madrid C (- 2015)",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/2868.png?lm=1729684474"
+        }
+    ]
+}

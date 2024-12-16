@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "371998",
+        "name": "Vinicius Junior",
+        "position": "Linksau\u00dfen",
+        "marketValue": 200000000,
+        "currency": "\u20ac",
+        "age": 24,
+        "height": "1,76",
+        "weight": "Unknown",
+        "goles": 57,
+        "asistencias": 45,
+        "goles_en_propia": 0,
+        "tarjetas_amarillas": 35,
+        "tarjetas_rojas": 1,
+        "tarjetas_rojasamarillas": 0
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 8,
+            "asistencias": 7,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 5,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2023": {
+            "goles": 15,
+            "asistencias": 6,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 7,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2022": {
+            "goles": 10,
+            "asistencias": 10,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 10,
+            "tarjetas_rojas": 1,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2021": {
+            "goles": 17,
+            "asistencias": 13,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 6,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2020": {
+            "goles": 3,
+            "asistencias": 5,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 3,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2019": {
+            "goles": 3,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 4,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2018": {
+            "goles": 1,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2017": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        }
+    }
+}

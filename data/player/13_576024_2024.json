@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "576024",
+        "name": "Juli\u00e1n Alvarez",
+        "position": "Mittelst\u00fcrmer",
+        "marketValue": 75000000,
+        "currency": "\u20ac",
+        "age": 24,
+        "height": "1,70",
+        "weight": "Unknown",
+        "goles": 5,
+        "asistencias": 2,
+        "goles_en_propia": 0,
+        "tarjetas_amarillas": 3,
+        "tarjetas_rojas": 0,
+        "tarjetas_rojasamarillas": 0
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 5,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 3,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Atl\u00e9tico Madrid"
+        },
+        "2023": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2022": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2021": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2020": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2019": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2018": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2017": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        }
+    }
+}

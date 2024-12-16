@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "326330",
+        "name": "Frenkie de Jong",
+        "position": "Zentrales Mittelfeld",
+        "marketValue": 60000000,
+        "currency": "\u20ac",
+        "age": 27,
+        "height": "1,81",
+        "weight": "Unknown",
+        "goles": 13,
+        "asistencias": 14,
+        "goles_en_propia": 0,
+        "tarjetas_amarillas": 24,
+        "tarjetas_rojas": 0,
+        "tarjetas_rojasamarillas": 2
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 1,
+            "asistencias": 1,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2023": {
+            "goles": 2,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 7,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2022": {
+            "goles": 2,
+            "asistencias": 4,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 3,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2021": {
+            "goles": 3,
+            "asistencias": 3,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 6,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 1,
+            "team_name": "FC Barcelona"
+        },
+        "2020": {
+            "goles": 3,
+            "asistencias": 4,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 5,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2019": {
+            "goles": 2,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 1,
+            "team_name": "FC Barcelona"
+        },
+        "2018": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2017": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        }
+    }
+}

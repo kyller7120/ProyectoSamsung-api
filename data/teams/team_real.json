@@ -1,0 +1,416 @@
+{
+    "count": {
+        "players": 310,
+        "coaches": 24,
+        "clubs": 515,
+        "competitions": 1,
+        "referees": 30
+    },
+    "players": [
+        {
+            "id": "203460",
+            "playerName": "Jack Grealish",
+            "firstName": "Jack",
+            "lastName": "Grealish",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569",
+            "club": "Manchester City",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/203460-1676499047.jpg?lm=1"
+        },
+        {
+            "id": "43003",
+            "playerName": "Nacho Monreal",
+            "firstName": "Nacho",
+            "lastName": "Monreal",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/43003-1518795805.jpg?lm=1"
+        },
+        {
+            "id": "20832",
+            "playerName": "Javier Villarreal",
+            "firstName": "Javier",
+            "lastName": "Villarreal",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "362668",
+            "playerName": "H\u00e1rold Preciado",
+            "firstName": "H\u00e1rold",
+            "lastName": "Preciado",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/83.png?lm=1520611569",
+            "club": "Santos Laguna",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/362668-1691603075.jpg?lm=1"
+        },
+        {
+            "id": "613873",
+            "playerName": "\u00c1lvaro Barreal",
+            "firstName": "\u00c1lvaro",
+            "lastName": "Barreal",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
+            "club": "EC Cruzeiro Belo Horizonte",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/613873-1709401095.jpg?lm=1"
+        },
+        {
+            "id": "371996",
+            "playerName": "Alerrandro",
+            "firstName": "Alerrandro Barra",
+            "lastName": "Mansa Realino de Souza",
+            "alias": "Alerrandro",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569",
+            "club": "Esporte Clube Vit\u00f3ria",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/371996-1553784661.jpg?lm=1"
+        },
+        {
+            "id": "408534",
+            "playerName": "Cristian Calder\u00f3n",
+            "firstName": "Cristian",
+            "lastName": "Calder\u00f3n",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/110.png?lm=1520611569",
+            "club": "CF Am\u00e9rica",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/408534-1579698129.png?lm=1"
+        },
+        {
+            "id": "984692",
+            "playerName": "Mat\u00edas Reali",
+            "firstName": "Mat\u00edas",
+            "lastName": "Reali",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
+            "club": "CA San Lorenzo de Almagro",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/984692-1706711416.JPG?lm=1"
+        },
+        {
+            "id": "532240",
+            "playerName": "Ricardo Monreal",
+            "firstName": "Ricardo",
+            "lastName": "Monreal",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/110.png?lm=1520611569",
+            "club": "Club Necaxa",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/532240-1579706564.png?lm=1"
+        },
+        {
+            "id": "126530",
+            "playerName": "Enzo R\u00e9ale",
+            "firstName": "Enzo",
+            "lastName": "R\u00e9ale",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+            "club": "Grand Ouest Association Lyonnaise FC",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/s_126530_1158_2012_1.jpg?lm=1"
+        }
+    ],
+    "coaches": [
+        {
+            "id": "5506",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/5506-1478600776.jpg?lm=1",
+            "coachName": "Enrique Mart\u00edn",
+            "firstName": "Enrique",
+            "lastName": "Mart\u00edn",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "12066",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/_1389652353.jpg?lm=1",
+            "coachName": "Jos\u00e9 Luis Real",
+            "firstName": "Jos\u00e9 Luis",
+            "lastName": "Real",
+            "alias": "",
+            "currentFunction": "Sportdirektor",
+            "club": "Deportivo Toluca",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/110.png?lm=1520611569"
+        },
+        {
+            "id": "29317",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Manolo Sanl\u00facar",
+            "firstName": "Manolo",
+            "lastName": "Sanl\u00facar",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "30042",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Floreal Garc\u00eda",
+            "firstName": "Floreal",
+            "lastName": "Garc\u00eda",
+            "alias": "",
+            "currentFunction": "Interimstrainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569"
+        },
+        {
+            "id": "37871",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Jos\u00e9 Luis Villarreal",
+            "firstName": "Jos\u00e9 Luis",
+            "lastName": "Villarreal",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Palm Beach Stars",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569"
+        },
+        {
+            "id": "38530",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Paco Real",
+            "firstName": "Paco",
+            "lastName": "Real",
+            "alias": "",
+            "currentFunction": "---",
+            "club": "---",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "42734",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/42734-1613834412.jpg?lm=1",
+            "coachName": "Juan Cruz Real",
+            "firstName": "Juan Cruz",
+            "lastName": "Real",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569"
+        },
+        {
+            "id": "43969",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "John McGreal",
+            "firstName": "John",
+            "lastName": "McGreal",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Ipswich Town U21",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/189.png?lm=1520611569"
+        },
+        {
+            "id": "45787",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Vila",
+            "firstName": "Jose",
+            "lastName": "Alves Vila Real Junior",
+            "alias": "Vila",
+            "currentFunction": "Konditionstrainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/26.png?lm=1520611569"
+        },
+        {
+            "id": "60325",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Jos\u00e9 Luis Monreal",
+            "firstName": "Jos\u00e9 Luis",
+            "lastName": "Monreal",
+            "alias": "",
+            "currentFunction": "---",
+            "club": "---",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "418",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Real Madrid",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1729684474"
+        },
+        {
+            "id": "3375",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Spanien",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/3375.png?lm=1616885373"
+        },
+        {
+            "id": "681",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Real Sociedad San Sebasti\u00e1n",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/681.png?lm=1614795530"
+        },
+        {
+            "id": "1050",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "FC Villarreal",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/1050.png?lm=1408655310"
+        },
+        {
+            "id": "150",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Real Betis Sevilla",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/150.png?lm=1663358526"
+        },
+        {
+            "id": "237",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "RCD Mallorca",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/237.png?lm=1407484750"
+        },
+        {
+            "id": "940",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Celta Vigo",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/940.png?lm=1406966406"
+        },
+        {
+            "id": "6643",
+            "league": "MLS1",
+            "competitionID": "MLS1",
+            "competitionName": "MLS",
+            "name": "Real Salt Lake City",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/6643.png?lm=1410197995"
+        },
+        {
+            "id": "366",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Real Valladolid",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/366.png?lm=1720163563"
+        },
+        {
+            "id": "142",
+            "league": "ES2",
+            "competitionID": "ES2",
+            "competitionName": "LaLiga2",
+            "name": "Real Saragossa ",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/142.png?lm=1405877974"
+        }
+    ],
+    "referees": [
+        {
+            "id": "6004",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Adriano Reale",
+            "firstName": "Adriano",
+            "lastName": "Reale",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/72.png?lm=1520611569"
+        },
+        {
+            "id": "19073",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Enrico Reale",
+            "firstName": "Enrico",
+            "lastName": "Reale",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/75.png?lm=1520611569"
+        },
+        {
+            "id": "48728",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": ". Real",
+            "firstName": ".",
+            "lastName": "Real",
+            "alias": "",
+            "club": "Karriereende",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525"
+        },
+        {
+            "id": "56315",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Clemens Real",
+            "firstName": "Clemens",
+            "lastName": "Real",
+            "alias": "",
+            "club": "---",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525"
+        },
+        {
+            "id": "65262",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Andrea Reali",
+            "firstName": "Andrea",
+            "lastName": "Reali",
+            "alias": "",
+            "club": "Lega Nazionale Dilettanti",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/75.png?lm=1520611569"
+        },
+        {
+            "id": "72618",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Fabien Real",
+            "firstName": "Fabien",
+            "lastName": "Real",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569"
+        },
+        {
+            "id": "73207",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Brian Real",
+            "firstName": "Brian",
+            "lastName": "Real",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/133.png?lm=1520611569"
+        },
+        {
+            "id": "75461",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Simon Real",
+            "firstName": "Simon",
+            "lastName": "Real",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525"
+        },
+        {
+            "id": "36586",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Lubin Torrealba",
+            "firstName": "Lubin",
+            "lastName": "Torrealba",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/182.png?lm=1520611569"
+        },
+        {
+            "id": "49111",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Pedro Gonz\u00e1lez Villarreal",
+            "firstName": "Pedro",
+            "lastName": "Gonz\u00e1lez Villarreal",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/110.png?lm=1520611569"
+        }
+    ],
+    "competitions": [
+        {
+            "id": "CEF1",
+            "competitionName": "Copa Federaci\u00f3n",
+            "competitionImage": "https://tmssl.akamaized.net//images/logo/medium/cef1.png?lm=1650769143",
+            "country": "Spanien",
+            "countryImage": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+        }
+    ]
+}

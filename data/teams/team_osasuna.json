@@ -1,0 +1,43 @@
+{
+    "count": {
+        "players": 0,
+        "coaches": 0,
+        "clubs": 4,
+        "competitions": 0,
+        "referees": 0
+    },
+    "clubs": [
+        {
+            "id": "331",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "CA Osasuna",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/331.png?lm=1686070937"
+        },
+        {
+            "id": "8516",
+            "league": "E3G1",
+            "competitionID": "E3G1",
+            "competitionName": "Primera Federaci\u00f3n - Gr. I",
+            "name": "CA Osasuna Promesas",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/8516.png?lm=1686070938"
+        },
+        {
+            "id": "13314",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CA Osasuna Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/13314.png?lm=1686070938"
+        },
+        {
+            "id": "28861",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CA Osasuna U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/28861.png?lm=1686070938"
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+{
+    "count": {
+        "players": 62,
+        "coaches": 8,
+        "clubs": 38,
+        "competitions": 0,
+        "referees": 5
+    },
+    "players": [
+        {
+            "id": "28712",
+            "playerName": "Andr\u00e9s Madrid",
+            "firstName": "Andr\u00e9s",
+            "lastName": "Madrid",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "271880",
+            "playerName": "\u00c1lvaro Madrid",
+            "firstName": "\u00c1lvaro",
+            "lastName": "Madrid",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/33.png?lm=1520611569",
+            "club": "CD Everton",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/271880-1646918352.JPG?lm=1"
+        },
+        {
+            "id": "72064",
+            "playerName": "Rub\u00e9n L\u00f3pez",
+            "firstName": "Rub\u00e9n",
+            "lastName": "L\u00f3pez",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "308978",
+            "playerName": "Rafael Ben\u00edtez",
+            "firstName": "Rafael",
+            "lastName": "Ben\u00edtez",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "64594",
+            "playerName": "Carlos Valverde",
+            "firstName": "Carlos",
+            "lastName": "Valverde",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "280383",
+            "playerName": "Manuel Madrid",
+            "firstName": "Manuel",
+            "lastName": "Madrid",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/110.png?lm=1520611569",
+            "club": "Vereinslos",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/280383-1684612507.jpg?lm=1"
+        },
+        {
+            "id": "739145",
+            "playerName": "Madrid Adrienne",
+            "firstName": "Madrid",
+            "lastName": "Adrienne",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/151.png?lm=1520611569",
+            "club": "Unbekannt",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "1119923",
+            "playerName": "Francisco Marchant",
+            "firstName": "Francisco",
+            "lastName": "Marchant",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/33.png?lm=1520611569",
+            "club": "CSD Colo-Colo U21",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/1119923-1680548125.jpg?lm=1"
+        },
+        {
+            "id": "287314",
+            "playerName": "Montero",
+            "firstName": "Francisco Enrique",
+            "lastName": "Montero Madrid",
+            "alias": "Montero",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Alhaur\u00edn de la Torre CF",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "749452",
+            "playerName": "Esteban Madrid",
+            "firstName": "Esteban",
+            "lastName": "Madrid",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/33.png?lm=1520611569",
+            "club": "Vereinslos",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        }
+    ],
+    "coaches": [
+        {
+            "id": "26739",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Madrid Muxhaj",
+            "firstName": "Madrid",
+            "lastName": "Muxhaj",
+            "alias": "",
+            "currentFunction": "Co-Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/3.png?lm=1520611569"
+        },
+        {
+            "id": "38121",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "David Movilla",
+            "firstName": "David",
+            "lastName": "Movilla",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "38275",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Mariano Madrid Valoria",
+            "firstName": "Mariano",
+            "lastName": "Madrid Valoria",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "43036",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Andr\u00e9s Madrid",
+            "firstName": "Andr\u00e9s",
+            "lastName": "Madrid",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "SC Melgacense",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569"
+        },
+        {
+            "id": "43918",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Osman Madrid",
+            "firstName": "Osman",
+            "lastName": "Madrid",
+            "alias": "",
+            "currentFunction": "Vize-Pr\u00e4sident",
+            "club": "CD Olimpia",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/66.png?lm=1699286249"
+        },
+        {
+            "id": "89507",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Rodolfo Madrid",
+            "firstName": "Rodolfo",
+            "lastName": "Madrid",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/33.png?lm=1520611569"
+        },
+        {
+            "id": "118048",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Hern\u00e1n Madrid",
+            "firstName": "Hern\u00e1n",
+            "lastName": "Madrid",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "CD Universidad Cat\u00f3lica U21",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/240.png?lm=1520611569"
+        },
+        {
+            "id": "125920",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Mario Rodr\u00edguez",
+            "firstName": "Mario",
+            "lastName": "Rodr\u00edguez",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/66.png?lm=1699286249"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "418",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Real Madrid",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/418.png?lm=1729684474"
+        },
+        {
+            "id": "13",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Atl\u00e9tico Madrid",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/13.png?lm=1719915566"
+        },
+        {
+            "id": "367",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Rayo Vallecano",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/367.png?lm=1653488445"
+        },
+        {
+            "id": "3679",
+            "league": "E3G2",
+            "competitionID": "E3G2",
+            "competitionName": "Primera Federaci\u00f3n - Gr. II",
+            "name": "Atl\u00e9tico Madrid B",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/3679.png?lm=1719915566"
+        },
+        {
+            "id": "6767",
+            "league": "E3G2",
+            "competitionID": "E3G2",
+            "competitionName": "Primera Federaci\u00f3n - Gr. II",
+            "name": "Real Madrid Castilla",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/6767.png?lm=1729684474"
+        },
+        {
+            "id": "41581",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Atl\u00e9tico Madrid UEFA U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/41581.png?lm=1719915566"
+        },
+        {
+            "id": "92878",
+            "league": "E4G5",
+            "competitionID": "E4G5",
+            "competitionName": "Segunda Federaci\u00f3n - Gr. V",
+            "name": "Real Madrid C",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/92878.png?lm=1729684474"
+        },
+        {
+            "id": "41596",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Madrid UEFA U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/41596.png?lm=1729684475"
+        },
+        {
+            "id": "15080",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Rayo Vallecano B",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/15080.png?lm=1653488445"
+        },
+        {
+            "id": "53792",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Fuenlabrada Promesas Madrid 2021",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/53792.png?lm=1620472326"
+        }
+    ],
+    "referees": [
+        {
+            "id": "70736",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Yorman Madrid",
+            "firstName": "Yorman",
+            "lastName": "Madrid",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/182.png?lm=1520611569"
+        },
+        {
+            "id": "37582",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Fulgencio Madrid Mart\u00ednez",
+            "firstName": "Fulgencio",
+            "lastName": "Madrid Mart\u00ednez",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "43988",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Higinio Madrid",
+            "firstName": "Higinio",
+            "lastName": "Madrid",
+            "alias": "",
+            "club": "---",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/33.png?lm=1520611569"
+        },
+        {
+            "id": "8996",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Ram\u00f3n Arias Madrid",
+            "firstName": "Ram\u00f3n",
+            "lastName": "Arias Madrid",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "10744",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Bartolom\u00e9 Jim\u00e9nez Madrid",
+            "firstName": "Bartolom\u00e9",
+            "lastName": "Jim\u00e9nez Madrid",
+            "alias": "",
+            "club": "Karriereende",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        }
+    ]
+}

@@ -1,0 +1,346 @@
+{
+    "count": {
+        "players": 63,
+        "coaches": 9,
+        "clubs": 20,
+        "competitions": 0,
+        "referees": 5
+    },
+    "players": [
+        {
+            "id": "146367",
+            "playerName": "Juan Cazares",
+            "firstName": "Juan",
+            "lastName": "Cazares",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/44.png?lm=1520611569",
+            "club": "Vereinslos",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/146367-1644485116.png?lm=1"
+        },
+        {
+            "id": "58799",
+            "playerName": "Salva Sevilla",
+            "firstName": "Salva",
+            "lastName": "Sevilla",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Vereinslos",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/58799-1447228879.jpg?lm=1"
+        },
+        {
+            "id": "509569",
+            "playerName": "Enrique Sevillano",
+            "firstName": "Enrique",
+            "lastName": "Sevillano",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "549749",
+            "playerName": "Jes\u00fas Sevilla",
+            "firstName": "Jes\u00fas",
+            "lastName": "Sevilla",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "217732",
+            "playerName": "Diego Sevillano",
+            "firstName": "Diego",
+            "lastName": "Sevillano",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
+            "club": "Club Ferro Carril Oeste (Gral. Pico)",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "309134",
+            "playerName": "Miguel Sevilla Serrano",
+            "firstName": "Miguel",
+            "lastName": "Sevilla Serrano",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "351540",
+            "playerName": "Jos\u00e9 Fran",
+            "firstName": "Jos\u00e9 Francisco",
+            "lastName": "Agull\u00f3 Sevilla",
+            "alias": "Jos\u00e9 Fran",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Vereinslos",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/351540-1629203413.jpg?lm=1"
+        },
+        {
+            "id": "310651",
+            "playerName": "Augusto Sevillano",
+            "firstName": "Augusto",
+            "lastName": "Sevillano",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/44.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "670775",
+            "playerName": "Miguel Sevillano",
+            "firstName": "Miguel",
+            "lastName": "Sevillano",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/44.png?lm=1520611569",
+            "club": "Cuenca Juniors",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "1033267",
+            "playerName": "Ariel Castro",
+            "firstName": "Ariel",
+            "lastName": "Castro",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/110.png?lm=1520611569",
+            "club": "Deportivo Guadalajara U23",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        }
+    ],
+    "coaches": [
+        {
+            "id": "7632",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Carlos Sevilla",
+            "firstName": "Carlos",
+            "lastName": "Sevilla",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Karriereende",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/44.png?lm=1520611569"
+        },
+        {
+            "id": "24790",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Juan Pedro",
+            "firstName": "Juan Pedro",
+            "lastName": "Ramos Sevilla",
+            "alias": "Juan Pedro",
+            "currentFunction": "Co-Trainer",
+            "club": "Deportivo Xerez",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "45797",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Mar\u00e7al Trulls",
+            "firstName": "Mar\u00e7al",
+            "lastName": "Trulls",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Albirex Niigata (Singapore) U17",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "48421",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Omar Sevilla",
+            "firstName": "Omar",
+            "lastName": "Sevilla",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Sensunte Caba\u00f1as F.C",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/45.png?lm=1520611569"
+        },
+        {
+            "id": "65913",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Jos\u00e9 Antonio Sevilla",
+            "firstName": "Jos\u00e9 Antonio",
+            "lastName": "Sevilla",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "108643",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Paco Pe\u00f1a",
+            "firstName": "Paco",
+            "lastName": "Pe\u00f1a",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "112869",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Joel Garz\u00f3n",
+            "firstName": "Joel",
+            "lastName": "Garz\u00f3n",
+            "alias": "",
+            "currentFunction": "Torwart-Trainer",
+            "club": "FC Villarreal C",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "113033",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Sandro Sevillano",
+            "firstName": "Sandro",
+            "lastName": "Sevillano",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Kuba U17",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/88.png?lm=1520611569"
+        },
+        {
+            "id": "119259",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Jerome Sevilla",
+            "firstName": "Jerome",
+            "lastName": "Sevilla",
+            "alias": "",
+            "currentFunction": "Physiotherapeut",
+            "club": "Loyola FC",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/134.png?lm=1520611569"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "150",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Real Betis Sevilla",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/150.png?lm=1663358526"
+        },
+        {
+            "id": "368",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "FC Sevilla",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/368.png?lm=1730896593"
+        },
+        {
+            "id": "2865",
+            "league": "E3G2",
+            "competitionID": "E3G2",
+            "competitionName": "Primera Federaci\u00f3n - Gr. II",
+            "name": "Betis Sevilla Deportivo",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/2865.png?lm=1663358526"
+        },
+        {
+            "id": "8519",
+            "league": "E3G2",
+            "competitionID": "E3G2",
+            "competitionName": "Primera Federaci\u00f3n - Gr. II",
+            "name": "FC Sevilla Atl\u00e9tico",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/8519.png?lm=1625756034"
+        },
+        {
+            "id": "40422",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Betis Sevilla U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/40422.png?lm=1663358526"
+        },
+        {
+            "id": "28867",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Sevilla U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/28867.png?lm=1596714697"
+        },
+        {
+            "id": "12319",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Sevilla C",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/12319.png?lm=1596714697"
+        },
+        {
+            "id": "50213",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Inter Dos Hermanas",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/50213.png?lm=1724274803"
+        },
+        {
+            "id": "14789",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Betis Sevilla C",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/14789.png?lm=1663358526"
+        },
+        {
+            "id": "14743",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Real Betis Sevilla Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/14743.png?lm=1663358526"
+        }
+    ],
+    "referees": [
+        {
+            "id": "40931",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Jes\u00fas Sevilla Palafox",
+            "firstName": "Jes\u00fas",
+            "lastName": "Sevilla Palafox",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/110.png?lm=1520611569"
+        },
+        {
+            "id": "59428",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Dannua Sevilla",
+            "firstName": "Dannua",
+            "lastName": "Sevilla",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/36.png?lm=1520611569"
+        },
+        {
+            "id": "64260",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Alberto Sevillano Mar\u00edn",
+            "firstName": "Alberto",
+            "lastName": "Sevillano Mar\u00edn",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "8619",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Jos\u00e9 Jap\u00f3n Sevilla",
+            "firstName": "Jos\u00e9",
+            "lastName": "Jap\u00f3n Sevilla",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "16515",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Diego Barbero Sevilla",
+            "firstName": "Diego",
+            "lastName": "Barbero Sevilla",
+            "alias": "",
+            "club": "Spanien",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        }
+    ]
+}

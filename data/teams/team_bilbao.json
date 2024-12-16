@@ -1,0 +1,268 @@
+{
+    "count": {
+        "players": 51,
+        "coaches": 7,
+        "clubs": 8,
+        "competitions": 0,
+        "referees": 1
+    },
+    "players": [
+        {
+            "id": "175445",
+            "playerName": "Unai Bilbao",
+            "firstName": "Unai",
+            "lastName": "Bilbao",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Club Tijuana",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/175445-1617673339.jpg?lm=1"
+        },
+        {
+            "id": "350470",
+            "playerName": "Gerardo Bilbao",
+            "firstName": "Gerardo",
+            "lastName": "Bilbao",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "7622",
+            "playerName": "Aitor Larrazabal",
+            "firstName": "Aitor",
+            "lastName": "Larrazabal",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/s_7622_123_2013_03_06_1.jpg?lm=1"
+        },
+        {
+            "id": "159963",
+            "playerName": "Santi Id\u00edgoras",
+            "firstName": "Santi",
+            "lastName": "Id\u00edgoras",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "154907",
+            "playerName": "Rub\u00e9n Bilbao",
+            "firstName": "Rub\u00e9n",
+            "lastName": "Bilbao",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "313982",
+            "playerName": "Francisco Celaya",
+            "firstName": "Francisco",
+            "lastName": "Celaya",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "313957",
+            "playerName": "Manuel Barrenechea",
+            "firstName": "Manuel",
+            "lastName": "Barrenechea",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "309078",
+            "playerName": "Victoriano Bilbao",
+            "firstName": "Victoriano",
+            "lastName": "Bilbao",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "520540",
+            "playerName": "Jos\u00e9 Bilbao",
+            "firstName": "Jos\u00e9",
+            "lastName": "Bilbao",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "514345",
+            "playerName": "V\u00edctor Bilbao",
+            "firstName": "V\u00edctor",
+            "lastName": "Bilbao",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        }
+    ],
+    "coaches": [
+        {
+            "id": "33115",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Gaizka Garai",
+            "firstName": "Gaizka",
+            "lastName": "Garai",
+            "alias": "",
+            "currentFunction": "Physiotherapeut",
+            "club": "CE Europa",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "38501",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Jos\u00e9 F\u00e9lix Gallastegi",
+            "firstName": "Jos\u00e9 F\u00e9lix",
+            "lastName": "Gallastegi",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "43874",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Rodrigo Bilbao",
+            "firstName": "Rodrigo",
+            "lastName": "Bilbao",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "CA General Lamadrid",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569"
+        },
+        {
+            "id": "47924",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Aitor Larrazabal",
+            "firstName": "Aitor",
+            "lastName": "Larrazabal",
+            "alias": "",
+            "currentFunction": "Sportdirektor",
+            "club": "Gernika Club",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "74907",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Juan\u00edn",
+            "firstName": "Juan\u00edn",
+            "lastName": "Bilbao",
+            "alias": "Juan\u00edn",
+            "currentFunction": "Trainer",
+            "club": "---",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "80627",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Iker Bilbao",
+            "firstName": "Iker",
+            "lastName": "Bilbao",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "87035",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Jos\u00e9 Calder\u00f3n",
+            "firstName": "Jos\u00e9",
+            "lastName": "Calder\u00f3n",
+            "alias": "",
+            "currentFunction": "Nachwuchskoordinator",
+            "club": "Audax Italiano",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/33.png?lm=1520611569"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "621",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Athletic Bilbao",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/621.png?lm=1695069038"
+        },
+        {
+            "id": "6688",
+            "league": "E3G1",
+            "competitionID": "E3G1",
+            "competitionName": "Primera Federaci\u00f3n - Gr. I",
+            "name": "Bilbao Athletic",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/6688.png?lm=1695069038"
+        },
+        {
+            "id": "6665",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CD Basconia",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/6665.png?lm=1437940453"
+        },
+        {
+            "id": "28860",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Athletic Bilbao U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/28860.png?lm=1695069038"
+        },
+        {
+            "id": "14733",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Athletic Bilbao Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/14733.png?lm=1695069038"
+        },
+        {
+            "id": "75414",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CS Bilbao",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/75414.png?lm=1562703382"
+        },
+        {
+            "id": "107198",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Athletic Bilbao U18",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/107198.png?lm=1695069261"
+        },
+        {
+            "id": "45511",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Athletic Bilbao UEFA U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/45511.png?lm=1695069038"
+        }
+    ],
+    "referees": [
+        {
+            "id": "5101",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Borja Bilbao Vizcaino",
+            "firstName": "Borja",
+            "lastName": "Bilbao Vizcaino",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        }
+    ]
+}

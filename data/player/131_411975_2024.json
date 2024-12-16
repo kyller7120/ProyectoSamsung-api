@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "411975",
+        "name": "Jules Kound\u00e9",
+        "position": "Rechter Verteidiger",
+        "marketValue": 55000000,
+        "currency": "\u20ac",
+        "age": 26,
+        "height": "1,80",
+        "weight": "Unknown",
+        "goles": 8,
+        "asistencias": 11,
+        "goles_en_propia": 1,
+        "tarjetas_amarillas": 20,
+        "tarjetas_rojas": 2,
+        "tarjetas_rojasamarillas": 0
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 1,
+            "asistencias": 3,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2023": {
+            "goles": 1,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 4,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2022": {
+            "goles": 1,
+            "asistencias": 3,
+            "goles_en_propia": 1,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2021": {
+            "goles": 2,
+            "asistencias": 1,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 2,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Athletic Bilbao"
+        },
+        "2020": {
+            "goles": 2,
+            "asistencias": 1,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 4,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Alav\u00e9s"
+        },
+        "2019": {
+            "goles": 1,
+            "asistencias": 1,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 6,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Valencia"
+        },
+        "2018": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2017": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        }
+    }
+}

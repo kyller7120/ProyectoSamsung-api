@@ -1,0 +1,196 @@
+{
+    "count": {
+        "players": 10,
+        "coaches": 3,
+        "clubs": 6,
+        "competitions": 0,
+        "referees": 0
+    },
+    "players": [
+        {
+            "id": "59583",
+            "playerName": "Jos\u00e9 Zamora",
+            "firstName": "Jos\u00e9",
+            "lastName": "Zamora",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "827667",
+            "playerName": "Andreu Bosch",
+            "firstName": "Andreu",
+            "lastName": "Bosch",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "541621",
+            "playerName": "Marc Vidal",
+            "firstName": "Marc",
+            "lastName": "Vidal",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "RC Celta Fortuna",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/541621-1523399454.jpg?lm=1"
+        },
+        {
+            "id": "177066",
+            "playerName": "Alberto Catal\u00e1n",
+            "firstName": "Alberto",
+            "lastName": "Catal\u00e1n",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "646743",
+            "playerName": "Javi Navarro",
+            "firstName": "Javi",
+            "lastName": "Navarro",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "FC Valencia Mestalla",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "940945",
+            "playerName": "Juanjo",
+            "firstName": "Juan Jos\u00e9",
+            "lastName": "Girona Mac\u00eda",
+            "alias": "Juanjo",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "968556",
+            "playerName": "Alfredo Gironacci",
+            "firstName": "Alfredo",
+            "lastName": "Gironacci",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/9.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "1060457",
+            "playerName": "Ra\u00fal Girona",
+            "firstName": "Ra\u00fal",
+            "lastName": "Girona",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Uni\u00f3n Collado Villalba",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "1291977",
+            "playerName": "Asc\u00f3n",
+            "firstName": "Antonio",
+            "lastName": "Asc\u00f3n Girona",
+            "alias": "Asc\u00f3n",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "---",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "1335414",
+            "playerName": "Dereck Girona",
+            "firstName": "Dereck",
+            "lastName": "Girona",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "FC Serpa",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        }
+    ],
+    "coaches": [
+        {
+            "id": "6501",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Machuca",
+            "firstName": "Jos\u00e9 Antonio",
+            "lastName": "Rodr\u00edguez Girona",
+            "alias": "Machuca",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        },
+        {
+            "id": "58873",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Albert Jans\u00e0",
+            "firstName": "Albert",
+            "lastName": "Jans\u00e0",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/5.png?lm=1520611569"
+        },
+        {
+            "id": "82877",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/82877-1597781452.jpg?lm=1",
+            "coachName": "Vicente Girona",
+            "firstName": "Vicente",
+            "lastName": "Girona",
+            "alias": "",
+            "currentFunction": "Co-Trainer",
+            "club": "Al-Sailiya SC",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "12321",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "FC Girona",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/12321.png?lm=1730455718"
+        },
+        {
+            "id": "38006",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Girona B",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/38006.png?lm=1730455718"
+        },
+        {
+            "id": "120036",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Girona UEFA U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/120036.png?lm=1730455718"
+        },
+        {
+            "id": "20277",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Girona U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/20277.png?lm=1730455718"
+        },
+        {
+            "id": "123357",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Girona U18",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/123357.png?lm=1730455718"
+        },
+        {
+            "id": "70218",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Girona Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/70218.png?lm=1730455718"
+        }
+    ]
+}

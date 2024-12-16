@@ -1,0 +1,370 @@
+[
+    {
+        "age": "35",
+        "marketValueUnformatted": 15000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Barcelona",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+        "seasonID": "23/24"
+    },
+    {
+        "age": "35",
+        "marketValueUnformatted": 15000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Barcelona",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+        "seasonID": "23/24"
+    },
+    {
+        "age": "35",
+        "marketValueUnformatted": 20000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Barcelona",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+        "seasonID": "23/24"
+    },
+    {
+        "age": "34",
+        "marketValueUnformatted": 30000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Barcelona",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+        "seasonID": "22/23"
+    },
+    {
+        "age": "34",
+        "marketValueUnformatted": 40000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Barcelona",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+        "seasonID": "22/23"
+    },
+    {
+        "age": "34",
+        "marketValueUnformatted": 45000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Barcelona",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548",
+        "seasonID": "22/23"
+    },
+    {
+        "age": "33",
+        "marketValueUnformatted": 45000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "21/22"
+    },
+    {
+        "age": "33",
+        "marketValueUnformatted": 50000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "21/22"
+    },
+    {
+        "age": "32",
+        "marketValueUnformatted": 60000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "20/21"
+    },
+    {
+        "age": "32",
+        "marketValueUnformatted": 60000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "20/21"
+    },
+    {
+        "age": "32",
+        "marketValueUnformatted": 60000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "20/21"
+    },
+    {
+        "age": "31",
+        "marketValueUnformatted": 56000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "19/20"
+    },
+    {
+        "age": "31",
+        "marketValueUnformatted": 70000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "19/20"
+    },
+    {
+        "age": "30",
+        "marketValueUnformatted": 65000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "18/19"
+    },
+    {
+        "age": "30",
+        "marketValueUnformatted": 70000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "18/19"
+    },
+    {
+        "age": "30",
+        "marketValueUnformatted": 80000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "18/19"
+    },
+    {
+        "age": "29",
+        "marketValueUnformatted": 85000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "18/19"
+    },
+    {
+        "age": "29",
+        "marketValueUnformatted": 90000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "17/18"
+    },
+    {
+        "age": "29",
+        "marketValueUnformatted": 90000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "17/18"
+    },
+    {
+        "age": "29",
+        "marketValueUnformatted": 80000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "17/18"
+    },
+    {
+        "age": "28",
+        "marketValueUnformatted": 80000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "16/17"
+    },
+    {
+        "age": "28",
+        "marketValueUnformatted": 80000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "16/17"
+    },
+    {
+        "age": "27",
+        "marketValueUnformatted": 75000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "16/17"
+    },
+    {
+        "age": "27",
+        "marketValueUnformatted": 75000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "15/16"
+    },
+    {
+        "age": "27",
+        "marketValueUnformatted": 70000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "15/16"
+    },
+    {
+        "age": "27",
+        "marketValueUnformatted": 70000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "15/16"
+    },
+    {
+        "age": "26",
+        "marketValueUnformatted": 50000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "15/16"
+    },
+    {
+        "age": "26",
+        "marketValueUnformatted": 50000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "14/15"
+    },
+    {
+        "age": "25",
+        "marketValueUnformatted": 50000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "FC Bayern M\u00fcnchen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/27.png?lm=1729503608",
+        "seasonID": "14/15"
+    },
+    {
+        "age": "25",
+        "marketValueUnformatted": 50000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "13/14"
+    },
+    {
+        "age": "24",
+        "marketValueUnformatted": 39000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "12/13"
+    },
+    {
+        "age": "24",
+        "marketValueUnformatted": 28000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "12/13"
+    },
+    {
+        "age": "24",
+        "marketValueUnformatted": 25000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "12/13"
+    },
+    {
+        "age": "23",
+        "marketValueUnformatted": 20000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "11/12"
+    },
+    {
+        "age": "23",
+        "marketValueUnformatted": 15000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "11/12"
+    },
+    {
+        "age": "23",
+        "marketValueUnformatted": 12000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "11/12"
+    },
+    {
+        "age": "22",
+        "marketValueUnformatted": 7000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "10/11"
+    },
+    {
+        "age": "22",
+        "marketValueUnformatted": 6000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "10/11"
+    },
+    {
+        "age": "21",
+        "marketValueUnformatted": 6000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Borussia Dortmund",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/16.png?lm=1396275280",
+        "seasonID": "10/11"
+    },
+    {
+        "age": "21",
+        "marketValueUnformatted": 4500000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Lech Posen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/238.png?lm=1667394613",
+        "seasonID": "09/10"
+    },
+    {
+        "age": "21",
+        "marketValueUnformatted": 3600000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Lech Posen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/238.png?lm=1667394613",
+        "seasonID": "09/10"
+    },
+    {
+        "age": "20",
+        "marketValueUnformatted": 3000000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Lech Posen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/238.png?lm=1667394613",
+        "seasonID": "09/10"
+    },
+    {
+        "age": "20",
+        "marketValueUnformatted": 1650000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Lech Posen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/238.png?lm=1667394613",
+        "seasonID": "08/09"
+    },
+    {
+        "age": "20",
+        "marketValueUnformatted": 800000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Lech Posen",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/238.png?lm=1667394613",
+        "seasonID": "08/09"
+    },
+    {
+        "age": "19",
+        "marketValueUnformatted": 500000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Znicz Pruszkow",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/9109.png?lm=1410809272",
+        "seasonID": "07/08"
+    },
+    {
+        "age": "19",
+        "marketValueUnformatted": 100000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Znicz Pruszkow",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/9109.png?lm=1410809272",
+        "seasonID": "07/08"
+    }
+]

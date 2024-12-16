@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "38253",
+        "name": "Robert Lewandowski",
+        "position": "Mittelst\u00fcrmer",
+        "marketValue": 15000000,
+        "currency": "\u20ac",
+        "age": 36,
+        "height": "1,85",
+        "weight": "Unknown",
+        "goles": 58,
+        "asistencias": 17,
+        "goles_en_propia": 0,
+        "tarjetas_amarillas": 9,
+        "tarjetas_rojas": 0,
+        "tarjetas_rojasamarillas": 1
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 16,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2023": {
+            "goles": 19,
+            "asistencias": 8,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 5,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2022": {
+            "goles": 23,
+            "asistencias": 7,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 3,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 1,
+            "team_name": "FC Barcelona"
+        },
+        "2021": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2020": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2019": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2018": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2017": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        }
+    }
+}

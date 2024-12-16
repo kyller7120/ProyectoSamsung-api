@@ -1,0 +1,103 @@
+{
+    "count": {
+        "players": 1,
+        "coaches": 0,
+        "clubs": 37,
+        "competitions": 0,
+        "referees": 0
+    },
+    "players": [
+        {
+            "id": "670473",
+            "playerName": "Daniel Barcelona",
+            "firstName": "Daniel",
+            "lastName": "Barcelona",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/40.png?lm=1520612525",
+            "club": "TSV Feytal",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "131",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "FC Barcelona",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/131.png?lm=1406739548"
+        },
+        {
+            "id": "714",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "Espanyol Barcelona",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/714.png?lm=1406966369"
+        },
+        {
+            "id": "3523",
+            "league": "EL1A",
+            "competitionID": "EL1A",
+            "competitionName": "Serie A Primera Etapa",
+            "name": "Barcelona SC Guayaquil",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/3523.png?lm=1721907936"
+        },
+        {
+            "id": "2464",
+            "league": "E3G1",
+            "competitionID": "E3G1",
+            "competitionName": "Primera Federaci\u00f3n - Gr. I",
+            "name": "FC Barcelona Atl\u00e8tic",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/2464.png?lm=1406739548"
+        },
+        {
+            "id": "10773",
+            "league": "E4G3",
+            "competitionID": "E4G3",
+            "competitionName": "Segunda Federaci\u00f3n - Gr. III",
+            "name": "Espanyol Barcelona B",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/10773.png?lm=1406966369"
+        },
+        {
+            "id": "20528",
+            "league": "E4G3",
+            "competitionID": "E4G3",
+            "competitionName": "Segunda Federaci\u00f3n - Gr. III",
+            "name": "CE Europa",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/20528.png?lm=1622569121"
+        },
+        {
+            "id": "41584",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Barcelona UEFA U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/41584.png?lm=1406739548"
+        },
+        {
+            "id": "22587",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Barcelona SC Guayaquil U20",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/22587.png?lm=1721907936"
+        },
+        {
+            "id": "14321",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Barcelona U16",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/14321.png?lm=1406739548"
+        },
+        {
+            "id": "2470",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Barcelona U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/2470.png?lm=1406739548"
+        }
+    ]
+}

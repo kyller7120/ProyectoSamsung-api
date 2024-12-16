@@ -1,0 +1,51 @@
+{
+    "count": {
+        "players": 0,
+        "coaches": 0,
+        "clubs": 5,
+        "competitions": 0,
+        "referees": 0
+    },
+    "clubs": [
+        {
+            "id": "3709",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "FC Getafe",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/3709.png?lm=1408655116"
+        },
+        {
+            "id": "8510",
+            "league": "E4G5",
+            "competitionID": "E4G5",
+            "competitionName": "Segunda Federaci\u00f3n - Gr. V",
+            "name": "FC Getafe B",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/8510.png?lm=1408655116"
+        },
+        {
+            "id": "28866",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Getafe U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/28866.png?lm=1408655116"
+        },
+        {
+            "id": "14738",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "FC Getafe Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/14738.png?lm=1408655116"
+        },
+        {
+            "id": "112667",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Getafe Deportivo (- 1983)",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/112667.png?lm=1718647982"
+        }
+    ]
+}

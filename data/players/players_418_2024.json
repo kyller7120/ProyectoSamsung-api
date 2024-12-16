@@ -1,0 +1,1256 @@
+{
+    "squad": [
+        {
+            "height": "1,72",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1346018400,
+            "contractUntil": 1751234400,
+            "captain": true,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "27992",
+            "name": "Luka Modric",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/27992-1687776160.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "10",
+            "age": 39,
+            "dateOfBirth": 495064800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/luka-modric-kroatien-2024-1719262118-140756.jpg?lm=1719262157",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 37,
+                    "name": "Kroatien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/37.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 6000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,80",
+            "foot": "links",
+            "injury": {
+                "id": "1",
+                "description": "Kreuzbandriss",
+                "until": 1735686000,
+                "category": "Unbekannt",
+                "rehabilitation": "",
+                "clubIdStart": null,
+                "clubIdEnd": null
+            },
+            "suspension": null,
+            "joined": 1625090400,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "59016",
+            "name": "David Alaba",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/59016-1684921582.jpeg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "4",
+            "age": 32,
+            "dateOfBirth": 709336800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/david-alaba-mit-ofb-trainer-ralf-rangnick-osterreich-2022-1710235344-131533.jpg?lm=1710235356",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "4",
+                    "name": "Linker Verteidiger",
+                    "shortName": "LV",
+                    "group": "Abwehr"
+                },
+                "third": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 127,
+                    "name": "\u00d6sterreich",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/127.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 15000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,90",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1656626400,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "86202",
+            "name": "Antonio R\u00fcdiger",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/86202-1684484602.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "22",
+            "age": 31,
+            "dateOfBirth": 731113200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/antonio-rudiger-dfb-2024-1715767059-136494.jpg?lm=1715767068",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 40,
+                    "name": "Deutschland",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/40.png?lm=1520612525"
+                },
+                {
+                    "id": 152,
+                    "name": "Sierra Leone",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/152.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 25000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "2,00",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1533765600,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "108390",
+            "name": "Thibaut Courtois",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/108390-1717280733.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "1",
+            "age": 32,
+            "dateOfBirth": 705535200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/thibaut-courtois-real-madrid-2024-1727672670-149812.jpg?lm=1727672686",
+            "isGoalkeeper": true,
+            "positions": {
+                "first": {
+                    "id": "1",
+                    "name": "Torwart",
+                    "shortName": "TW",
+                    "group": "Torwart"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 19,
+                    "name": "Belgien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/19.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 25000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,73",
+            "foot": "rechts",
+            "injury": {
+                "id": "1",
+                "description": "Kreuzbandriss",
+                "until": 1753999200,
+                "category": "Unbekannt",
+                "rehabilitation": "",
+                "clubIdStart": null,
+                "clubIdEnd": null
+            },
+            "suspension": null,
+            "joined": 1372629600,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "138927",
+            "name": "Daniel Carvajal",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/138927-1721026790.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "2",
+            "age": 32,
+            "dateOfBirth": 695084400,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/daniel-carvajal-spanien-2024-1718473954-140022.jpg?lm=1718473963",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 12000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,73",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1435788000,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "221316",
+            "name": "Lucas V\u00e1zquez",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/221316-1536655786.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": "17",
+            "age": 33,
+            "dateOfBirth": 678319200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/lucas-vazquez-real-madrid-1562319436-23394.jpg?lm=1562319448",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 4000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,84",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1438293600,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "251896",
+            "name": "Jes\u00fas Vallejo",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/251896-1684241186.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "18",
+            "age": 27,
+            "dateOfBirth": 852418800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/jesus-vallejo-granada-cf-1590760334-40025.jpg?lm=1590760330",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 1000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,80",
+            "foot": "links",
+            "injury": {
+                "id": "312",
+                "description": "Beinverletzung",
+                "until": null,
+                "category": "Unbekannt",
+                "rehabilitation": "",
+                "clubIdStart": null,
+                "clubIdEnd": null
+            },
+            "suspension": null,
+            "joined": 1561932000,
+            "contractUntil": 1751234400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "291417",
+            "name": "Ferland Mendy",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/291417-1701294025.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "23",
+            "age": 29,
+            "dateOfBirth": 802562400,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/mendy-ferland-2022-2023-france-1718115346-139148.jpg?lm=1718115366",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "4",
+                    "name": "Linker Verteidiger",
+                    "shortName": "LV",
+                    "group": "Abwehr"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 50,
+                    "name": "Frankreich",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/50.png?lm=1520611569"
+                },
+                {
+                    "id": 149,
+                    "name": "Senegal",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/149.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 22000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,70",
+            "foot": "beidf\u00fc\u00dfig",
+            "injury": null,
+            "suspension": null,
+            "joined": 1546729200,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "314678",
+            "name": "Brahim D\u00edaz",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/314678-1632307989.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "imago images",
+            "shirtNumber": "21",
+            "age": 25,
+            "dateOfBirth": 933631200,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/brahim-diaz-real-madrid-2023-24-1710143453-131411.jpg?lm=1710143473",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "13",
+                    "name": "H\u00e4ngende Spitze",
+                    "shortName": "HS",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 107,
+                    "name": "Marokko",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/107.png?lm=1520611569"
+                },
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 40000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,79",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1499983200,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "319745",
+            "name": "Dani Ceballos",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/319745-1723666162.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "19",
+            "age": 28,
+            "dateOfBirth": 839368800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/dani-ceballos-real-madrid-2021-22-1683127458-106457.jpg?lm=1683127485",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "9",
+                    "name": "Linkes Mittelfeld",
+                    "shortName": "LM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 4000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,69",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1688162400,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "341264",
+            "name": "Fran Garc\u00eda",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/341264-1688119965.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "20",
+            "age": 25,
+            "dateOfBirth": 934581600,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/fran-garcia-real-madrid-2023-24-1692801210-114687.jpg?lm=1692801230",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "4",
+                    "name": "Linker Verteidiger",
+                    "shortName": "LV",
+                    "group": "Abwehr"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 15000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,78",
+            "foot": "rechts",
+            "injury": {
+                "id": "299",
+                "description": "Oberschenkelverletzung",
+                "until": null,
+                "category": "Unbekannt",
+                "rehabilitation": "",
+                "clubIdStart": null,
+                "clubIdEnd": null
+            },
+            "suspension": null,
+            "joined": 1719784800,
+            "contractUntil": 1877464800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "342229",
+            "name": "Kylian Mbapp\u00e9",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/342229-1682683695.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "9",
+            "age": 25,
+            "dateOfBirth": 914108400,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/vini-mbappe-and-bellingham-real-madrid-2024-1733249934-155694.jpg?lm=1733249964",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 50,
+                    "name": "Frankreich",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/50.png?lm=1520611569"
+                },
+                {
+                    "id": 31,
+                    "name": "Kamerun",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/31.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 180000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,82",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1530396000,
+            "contractUntil": 1877464800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "369081",
+            "name": "Federico Valverde",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/369081-1731018042.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "8",
+            "age": 26,
+            "dateOfBirth": 901058400,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/federico-valverde-real-madrid-2024-2025-1049498155h-1728568623-150954.jpg?lm=1728568633",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "8",
+                    "name": "Rechtes Mittelfeld",
+                    "shortName": "RM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 179,
+                    "name": "Uruguay",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/179.png?lm=1520611569"
+                },
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 130000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,76",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1531346400,
+            "contractUntil": 1814306400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "371998",
+            "name": "Vinicius Junior",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/371998-1664869583.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "7",
+            "age": 24,
+            "dateOfBirth": 963352800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/vini-mbappe-and-bellingham-real-madrid-2024-1733249934-155694.jpg?lm=1733249964",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 26,
+                    "name": "Brasilien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/26.png?lm=1520611569"
+                },
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 200000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,86",
+            "foot": "rechts",
+            "injury": {
+                "id": "1",
+                "description": "Kreuzbandriss",
+                "until": 1753999200,
+                "category": "Unbekannt",
+                "rehabilitation": "",
+                "clubIdStart": null,
+                "clubIdEnd": null
+            },
+            "suspension": null,
+            "joined": 1561932000,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "401530",
+            "name": "\u00c9der Milit\u00e3o",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/401530-1719653438.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "3",
+            "age": 26,
+            "dateOfBirth": 885078000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/eder-militao-real-madrid-2024-2025-1048931238h-1728571683-150992.jpg?lm=1728571696",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": {
+                    "id": "5",
+                    "name": "Rechter Verteidiger",
+                    "shortName": "RV",
+                    "group": "Abwehr"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 26,
+                    "name": "Brasilien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/26.png?lm=1520611569"
+                },
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 60000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,91",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1530396000,
+            "contractUntil": 1909000800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "404839",
+            "name": "Andriy Lunin",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/404839-1701294131.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "13",
+            "age": 25,
+            "dateOfBirth": 918687600,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/andriy-lunin-ukraine-2024-1042990030h-1718198599-139356.jpg?lm=1718198614",
+            "isGoalkeeper": true,
+            "positions": {
+                "first": {
+                    "id": "1",
+                    "name": "Torwart",
+                    "shortName": "TW",
+                    "group": "Torwart"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 177,
+                    "name": "Ukraine",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/177.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 25000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,74",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1561932000,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "412363",
+            "name": "Rodrygo",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/412363-1693988167.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "11",
+            "age": 23,
+            "dateOfBirth": 978994800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/rodrygo-real-madrid-2024-2025-1728562951-150928.jpg?lm=1728562966",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "11",
+                    "name": "Linksau\u00dfen",
+                    "shortName": "LA",
+                    "group": "Sturm"
+                },
+                "third": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 26,
+                    "name": "Brasilien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/26.png?lm=1520611569"
+                },
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 110000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,88",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1656626400,
+            "contractUntil": 1845928800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "413112",
+            "name": "Aur\u00e9lien Tchouam\u00e9ni",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/413112-1668500754.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "14",
+            "age": 24,
+            "dateOfBirth": 948927600,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/aurelien-tchouameni-real-madrid-2024-2025-1050717246-1728571032-150986.jpg?lm=1728571129",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 50,
+                    "name": "Frankreich",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/50.png?lm=1520611569"
+                },
+                {
+                    "id": 31,
+                    "name": "Kamerun",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/31.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 100000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,86",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1688162400,
+            "contractUntil": 1877464800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "581678",
+            "name": "Jude Bellingham",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/581678-1693987944.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "5",
+            "age": 21,
+            "dateOfBirth": 1056837600,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/vini-mbappe-and-bellingham-real-madrid-2024-1733249934-155694.jpg?lm=1733249964",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "9",
+                    "name": "Linkes Mittelfeld",
+                    "shortName": "LM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 189,
+                    "name": "England",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/189.png?lm=1520611569"
+                },
+                {
+                    "id": 72,
+                    "name": "Irland",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/72.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 180000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,82",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1630360800,
+            "contractUntil": 1877464800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "640428",
+            "name": "Eduardo Camavinga",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/640428-1668500874.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "6",
+            "age": 22,
+            "dateOfBirth": 1036882800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/eduardo-camavinga-real-madrid-2024-2025-1051847656-1728571199-150988.jpg?lm=1728571217",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                },
+                "second": {
+                    "id": "6",
+                    "name": "Defensives Mittelfeld",
+                    "shortName": "DM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "4",
+                    "name": "Linker Verteidiger",
+                    "shortName": "LV",
+                    "group": "Abwehr"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 50,
+                    "name": "Frankreich",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/50.png?lm=1520611569"
+                },
+                {
+                    "id": 85,
+                    "name": "Kongo",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/85.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 100000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,75",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1688594400,
+            "contractUntil": 1877464800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "861410",
+            "name": "Arda G\u00fcler",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/861410-1699472585.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "15",
+            "age": 19,
+            "dateOfBirth": 1109286000,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/arda-guler-2024-2025-real-madrid-1730476167-153111.jpg?lm=1730476178",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "12",
+                    "name": "Rechtsau\u00dfen",
+                    "shortName": "RA",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "10",
+                    "name": "Offensives Mittelfeld",
+                    "shortName": "OM",
+                    "group": "Mittelfeld"
+                },
+                "third": {
+                    "id": "7",
+                    "name": "Zentrales Mittelfeld",
+                    "shortName": "ZM",
+                    "group": "Mittelfeld"
+                }
+            },
+            "nationalities": [
+                {
+                    "id": 174,
+                    "name": "T\u00fcrkei",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/174.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 45000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,84",
+            "foot": "rechts",
+            "injury": null,
+            "suspension": null,
+            "joined": 1719784800,
+            "contractUntil": 1782770400,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "935245",
+            "name": "Ra\u00fal Asencio",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/935245-1731168094.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "35",
+            "age": 21,
+            "dateOfBirth": 1045090800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/raul-asencio-real-madrid-2024-25-1734082698-156600.jpg?lm=1734082722",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "3",
+                    "name": "Innenverteidiger",
+                    "shortName": "IV",
+                    "group": "Abwehr"
+                },
+                "second": null,
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 157,
+                    "name": "Spanien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/157.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 300000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        },
+        {
+            "height": "1,73",
+            "foot": "links",
+            "injury": null,
+            "suspension": null,
+            "joined": 1721512800,
+            "contractUntil": 1909000800,
+            "captain": false,
+            "lastClub": null,
+            "isLoan": null,
+            "wasLoan": null,
+            "id": "971570",
+            "name": "Endrick",
+            "image": "https://img.a.transfermarkt.technology/portrait/medium/971570-1723665994.jpg?lm=1",
+            "imageLarge": null,
+            "imageSource": "IMAGO",
+            "shirtNumber": "16",
+            "age": 18,
+            "dateOfBirth": 1153432800,
+            "heroImage": "https://tmssl.akamaized.net//images/foto/normal/endrick-real-madrid-2024-1726785981-148585.jpg?lm=1726786003",
+            "isGoalkeeper": false,
+            "positions": {
+                "first": {
+                    "id": "14",
+                    "name": "Mittelst\u00fcrmer",
+                    "shortName": "MS",
+                    "group": "Sturm"
+                },
+                "second": {
+                    "id": "13",
+                    "name": "H\u00e4ngende Spitze",
+                    "shortName": "HS",
+                    "group": "Sturm"
+                },
+                "third": null
+            },
+            "nationalities": [
+                {
+                    "id": 26,
+                    "name": "Brasilien",
+                    "image": "https://tmssl.akamaized.net//images/flagge/small/26.png?lm=1520611569"
+                }
+            ],
+            "marketValue": {
+                "value": 60000000,
+                "currency": "\u20ac",
+                "progression": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "683840",
+        "name": "Pedri",
+        "position": "Zentrales Mittelfeld",
+        "marketValue": 80000000,
+        "currency": "\u20ac",
+        "age": 22,
+        "height": "1,74",
+        "weight": "Unknown",
+        "goles": 19,
+        "asistencias": 9,
+        "goles_en_propia": 0,
+        "tarjetas_amarillas": 9,
+        "tarjetas_rojas": 0,
+        "tarjetas_rojasamarillas": 0
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 3,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2023": {
+            "goles": 4,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 3,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2022": {
+            "goles": 6,
+            "asistencias": 1,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2021": {
+            "goles": 3,
+            "asistencias": 1,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2020": {
+            "goles": 3,
+            "asistencias": 3,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2019": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2018": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2017": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        }
+    }
+}

@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "28003",
+        "name": "Lionel Messi",
+        "position": "Rechtsau\u00dfen",
+        "marketValue": 80000000,
+        "currency": "\u20ac",
+        "age": 33,
+        "height": "1,70",
+        "weight": "Unknown",
+        "goles": 125,
+        "asistencias": 61,
+        "goles_en_propia": 0,
+        "tarjetas_amarillas": 14,
+        "tarjetas_rojas": 0,
+        "tarjetas_rojasamarillas": 0
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2023": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2022": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2021": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "No particip\u00f3 en el equipo"
+        },
+        "2020": {
+            "goles": 30,
+            "asistencias": 11,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 4,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2019": {
+            "goles": 25,
+            "asistencias": 22,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 4,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2018": {
+            "goles": 36,
+            "asistencias": 14,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 3,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        },
+        "2017": {
+            "goles": 34,
+            "asistencias": 14,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 3,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "FC Barcelona"
+        }
+    }
+}

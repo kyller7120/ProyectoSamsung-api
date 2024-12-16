@@ -1,0 +1,73 @@
+{
+    "count": {
+        "players": 2,
+        "coaches": 0,
+        "clubs": 5,
+        "competitions": 0,
+        "referees": 0
+    },
+    "players": [
+        {
+            "id": "896899",
+            "playerName": "Aaron Leganase",
+            "firstName": "Aaron",
+            "lastName": "Leganase",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/50.png?lm=1520611569",
+            "club": "Olympique Marcquois Football",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "1157321",
+            "playerName": "Marcos Legan\u00e9s",
+            "firstName": "Marcos",
+            "lastName": "Legan\u00e9s",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/157.png?lm=1520611569",
+            "club": "Ontinyent 1931 CF",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "1244",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "CD Legan\u00e9s",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/1244.png?lm=1422972468"
+        },
+        {
+            "id": "17686",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CD Legan\u00e9s B",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/17686.png?lm=1618759417"
+        },
+        {
+            "id": "87997",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CD Legan\u00e9s C",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/87997.png?lm=1618759418"
+        },
+        {
+            "id": "21121",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CD Legan\u00e9s U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/21121.png?lm=1618759417"
+        },
+        {
+            "id": "44199",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CD Legan\u00e9s Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/44199.png?lm=1618759418"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "age": "21",
+        "marketValueUnformatted": 300000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Real Madrid Castilla",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/6767.png?lm=1729684474",
+        "seasonID": "23/24"
+    },
+    {
+        "age": "20",
+        "marketValueUnformatted": 200000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Real Madrid Castilla",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/6767.png?lm=1729684474",
+        "seasonID": "23/24"
+    },
+    {
+        "age": "20",
+        "marketValueUnformatted": 100000,
+        "marketValueCurrency": "\u20ac",
+        "clubName": "Real Madrid Castilla",
+        "clubImage": "https://tmssl.akamaized.net//images/wappen/medium/6767.png?lm=1729684474",
+        "seasonID": "23/24"
+    }
+]

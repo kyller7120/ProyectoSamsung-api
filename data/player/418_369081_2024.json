@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "369081",
+        "name": "Federico Valverde",
+        "position": "Zentrales Mittelfeld",
+        "marketValue": 130000000,
+        "currency": "\u20ac",
+        "age": 26,
+        "height": "1,82",
+        "weight": "Unknown",
+        "goles": 18,
+        "asistencias": 20,
+        "goles_en_propia": 0,
+        "tarjetas_amarillas": 14,
+        "tarjetas_rojas": 0,
+        "tarjetas_rojasamarillas": 0
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 4,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2023": {
+            "goles": 2,
+            "asistencias": 7,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2022": {
+            "goles": 7,
+            "asistencias": 4,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2021": {
+            "goles": 0,
+            "asistencias": 1,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2020": {
+            "goles": 3,
+            "asistencias": 1,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2019": {
+            "goles": 2,
+            "asistencias": 5,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2018": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 4,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2017": {
+            "goles": 0,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 0,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Dep. La Coruna"
+        }
+    }
+}

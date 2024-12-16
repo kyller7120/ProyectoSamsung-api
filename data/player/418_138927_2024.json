@@ -1,0 +1,92 @@
+{
+    "estadisticas": {
+        "player_id": "138927",
+        "name": "Daniel Carvajal",
+        "position": "Rechter Verteidiger",
+        "marketValue": 12000000,
+        "currency": "\u20ac",
+        "age": 32,
+        "height": "1,73",
+        "weight": "Unknown",
+        "goles": 8,
+        "asistencias": 23,
+        "goles_en_propia": 0,
+        "tarjetas_amarillas": 51,
+        "tarjetas_rojas": 1,
+        "tarjetas_rojasamarillas": 2
+    },
+    "estadisticas_por_temporada": {
+        "2024": {
+            "goles": 1,
+            "asistencias": 0,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 2,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2023": {
+            "goles": 4,
+            "asistencias": 3,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 4,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 1,
+            "team_name": "Real Madrid"
+        },
+        "2022": {
+            "goles": 0,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 7,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 1,
+            "team_name": "Real Madrid"
+        },
+        "2021": {
+            "goles": 1,
+            "asistencias": 3,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 1,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2020": {
+            "goles": 0,
+            "asistencias": 4,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 5,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2019": {
+            "goles": 1,
+            "asistencias": 6,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 11,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2018": {
+            "goles": 1,
+            "asistencias": 3,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 10,
+            "tarjetas_rojas": 0,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        },
+        "2017": {
+            "goles": 0,
+            "asistencias": 2,
+            "goles_en_propia": 0,
+            "tarjetas_amarillas": 11,
+            "tarjetas_rojas": 1,
+            "tarjetas_rojasamarillas": 0,
+            "team_name": "Real Madrid"
+        }
+    }
+}

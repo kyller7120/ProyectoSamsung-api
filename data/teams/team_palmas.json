@@ -1,0 +1,251 @@
+{
+    "count": {
+        "players": 29,
+        "coaches": 4,
+        "clubs": 13,
+        "competitions": 0,
+        "referees": 1
+    },
+    "players": [
+        {
+            "id": "85616",
+            "playerName": "P\u00e1lmi Rafn P\u00e1lmason",
+            "firstName": "P\u00e1lmi Rafn",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "117068",
+            "playerName": "Bjarni P\u00e1lmason",
+            "firstName": "Bjarni",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "KFG Gardabaer",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "119599",
+            "playerName": "Vilhj\u00e1lmur P\u00e1lmason",
+            "firstName": "Vilhj\u00e1lmur",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "M\u00eddas",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "214065",
+            "playerName": "Haukur P\u00e1lmason",
+            "firstName": "Haukur",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "Karriereende",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "474467",
+            "playerName": "Finnur T\u00f3mas P\u00e1lmason",
+            "firstName": "Finnur T\u00f3mas",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "KR Reykjav\u00edk",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/474467-1615969053.jpg?lm=1"
+        },
+        {
+            "id": "1294009",
+            "playerName": "Alexander Rafn P\u00e1lmason",
+            "firstName": "Alexander Rafn",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "KR Reykjavik U19",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "485089",
+            "playerName": "Tino Palmasto",
+            "firstName": "Tino",
+            "lastName": "Palmasto",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/49.png?lm=1520611569",
+            "club": "J\u00e4rvenp\u00e4\u00e4n Palloseura",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/485089-1597039815.jpg?lm=1"
+        },
+        {
+            "id": "117455",
+            "playerName": "V\u00edkingur P\u00e1lmason",
+            "firstName": "V\u00edkingur",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "Boltaf\u00e9lag Nordfjardar",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "241238",
+            "playerName": "Sindri P\u00e1lmason",
+            "firstName": "Sindri",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "KS \u00c1rborg",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        },
+        {
+            "id": "570252",
+            "playerName": "J\u00f3n Helgi P\u00e1lmason",
+            "firstName": "J\u00f3n Helgi",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569",
+            "club": "\u00cdH Hafnarfj\u00f6rdur",
+            "playerImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1"
+        }
+    ],
+    "coaches": [
+        {
+            "id": "55366",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "J\u00f3n P\u00e1ll P\u00e1lmason",
+            "firstName": "J\u00f3n P\u00e1ll",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Vereinslos",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569"
+        },
+        {
+            "id": "79620",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Sigmar P\u00e1lmason",
+            "firstName": "Sigmar",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Karriereende",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569"
+        },
+        {
+            "id": "80640",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "Giuseppe Palmas",
+            "firstName": "Giuseppe",
+            "lastName": "Palmas",
+            "alias": "",
+            "currentFunction": "Trainer",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/75.png?lm=1520611569"
+        },
+        {
+            "id": "130628",
+            "coachImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "coachName": "P\u00e1lmi Rafn P\u00e1lmason",
+            "firstName": "P\u00e1lmi Rafn",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "currentFunction": "Interimstrainer",
+            "club": "KR Reykjav\u00edk",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569"
+        }
+    ],
+    "clubs": [
+        {
+            "id": "472",
+            "league": "ES1",
+            "competitionID": "ES1",
+            "competitionName": "LaLiga",
+            "name": "UD Las Palmas",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/472.png?lm=1407484865"
+        },
+        {
+            "id": "11610",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Las Palmas Atl\u00e9tico",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/11610.png?lm=1407484865"
+        },
+        {
+            "id": "11614",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "UD Las Palmas C",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/11614.png?lm=1407484865"
+        },
+        {
+            "id": "93357",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CD Las Palmas Chota",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/93357.png?lm=1639582803"
+        },
+        {
+            "id": "61727",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "CA Las Palmas",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/61727.png?lm=1545868461"
+        },
+        {
+            "id": "40494",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "UD Las Palmas Jugend",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/40494.png?lm=1407484865"
+        },
+        {
+            "id": "40495",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "UD Las Palmas U19",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/40495.png?lm=1407484865"
+        },
+        {
+            "id": "13243",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Universidad de Las Palmas (- 2011)",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/13243.png?lm=1457444191"
+        },
+        {
+            "id": "21030",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Universidad de Las Palmas B (- 2011)",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/21030.png?lm=1457444243"
+        },
+        {
+            "id": "48003",
+            "league": "",
+            "competitionID": "",
+            "competitionName": "",
+            "name": "Palmas FR",
+            "logoImage": "https://tmssl.akamaized.net//images/wappen/medium/48003.png?lm=1445634836"
+        }
+    ],
+    "referees": [
+        {
+            "id": "57610",
+            "refereeImage": "https://img.a.transfermarkt.technology/portrait/medium/default.jpg?lm=1",
+            "refereeName": "Bjarni Vidir P\u00e1lmason",
+            "firstName": "Bjarni Vidir",
+            "lastName": "P\u00e1lmason",
+            "alias": "",
+            "club": "Unbekannt",
+            "nationImage": "https://tmssl.akamaized.net//images/flagge/verysmall/73.png?lm=1520611569"
+        }
+    ]
+}
